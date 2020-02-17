@@ -1,7 +1,5 @@
-#MA5111
-#Assessment 1
 #Cathal King
-#App 1
+#App 1 - Normal Probability Distribution
 
 library(shiny)
 
