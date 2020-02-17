@@ -1,6 +1,5 @@
-#MA5111 Assessment 1 - R/Shiny&Github
 #Cathal King
-#App2
+#App2 - Read in Patient Data (csv format) file and conduct basic visualisations 
 
 library(shiny)
 
