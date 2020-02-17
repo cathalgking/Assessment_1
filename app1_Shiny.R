@@ -1,6 +1,9 @@
 #Cathal King
 #App 1 - Normal Probability Distribution
 
+# Also found at the following link 
+# https://cathalgking.shinyapps.io/app1_rshiny/
+
 library(shiny)
 
 #Define UI for application
